@@ -5,7 +5,7 @@ body{
    line-height: 1.7;
 }
 #content1{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/assets/images/banner_1665573832d270bb410c49d3cd72604b71773d819a.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(assets/images/banner_1665573832d270bb410c49d3cd72604b71773d819a.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
